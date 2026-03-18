@@ -1,8 +1,8 @@
 package com.michel.main;
 
-import com.michel.main.model.Cliente;
-import com.michel.main.model.Conta;
-import com.michel.main.service.GerenciadorFinanceiro;
+import com.michel.model.Cliente;
+import com.michel.model.Conta;
+import com.michel.service.GerenciadorFinanceiro;
 
 import java.util.Scanner;
 

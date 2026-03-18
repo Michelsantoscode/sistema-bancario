@@ -1,6 +1,6 @@
-package com.michel.main.service;
+package com.michel.service;
 
-import com.michel.main.model.Conta;
+import com.michel.model.Conta;
 
 public class GerenciadorFinanceiro {
     private Conta conta;

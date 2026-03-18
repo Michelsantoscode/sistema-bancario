@@ -1,4 +1,4 @@
-package com.michel.main.model;
+package com.michel.model;
 
 public class Cliente {
     private String nome;
